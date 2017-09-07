@@ -3,10 +3,10 @@ highlighter: pygments
 permalink: /posts/:title.html
 excerpt_separator: "<!-- more -->"
 
-github: panxw
-author: "潘学文"
-email: winfirm#163.com
-name: "潘学文个人博客"
+github: lazhao123
+author: "太平洋"
+email: lazhao123@gmail.com
+name: "太平洋个人博客"
 url: http://www.panxw.com
 domain: www.panxw.com
 all_categories: [
